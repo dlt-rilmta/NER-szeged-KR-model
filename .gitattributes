@@ -1,0 +1,4 @@
+NER-szeged-KR.featureNumbers.gz filter=lfs diff=lfs merge=lfs -text
+NER-szeged-KR.labelNumbers.gz filter=lfs diff=lfs merge=lfs -text
+NER-szeged-KR.model filter=lfs diff=lfs merge=lfs -text
+NER-szeged-KR.transmodel filter=lfs diff=lfs merge=lfs -text

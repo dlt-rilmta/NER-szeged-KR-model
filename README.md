@@ -4,7 +4,7 @@ Binary model files for [Huntag3](https://github.com/ppke-nlpg/HunTag3) for 4-cla
 
 Trained on the *Szeged NER corpus* using *KR* (Kornai-Rebrus) part-of-speech and morphosyntactic codes. Training data and scripts to re-run training are included.
 
-Training configuration was created by [Eszter Simon](https://repozitorium.omikk.bme.hu/handle/10890/1250).
+Training configuration was created by [Eszter Simon](https://repozitorium.omikk.bme.hu/handle/10890/1250) and adapted from `Huntag` to `Huntag3` by Balazs Indig.
 
 The binary model files are suitable to be used with the Huntag3 processing resource inside the [GATE Hungarian plugin](https://github.com/dlt-rilmta/hunlp-GATE).
 

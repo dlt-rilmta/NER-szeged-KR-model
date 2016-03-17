@@ -8,6 +8,10 @@ Training configuration was created by [Eszter Simon](https://repozitorium.omikk.
 
 The binary model files are suitable to be used with the Huntag3 processing resource inside the [GATE Hungarian plugin](https://github.com/dlt-rilmta/hunlp-GATE).
 
+Huntag3 needs as input a text file with the following tab-separated fields:
+
+```word KR-PoS lemma/KR-analysis```
+
 **How to install for the GATE Hungarian plugin**
 
 You will need to install [git-lfs](https://git-lfs.github.com/) to clone this repository. Then change to `{YOUR_GATE_PLUGINS_FOLDER}/Lang_Hungarian/resources/huntag3/models/` and issue the following command:
